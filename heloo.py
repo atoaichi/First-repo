@@ -27,3 +27,6 @@ elif score >= 50:
     print("もう少し")
 else:
     print("不合格")
+animals.append =["熊"]
+print(animals)
+print(animals[3])

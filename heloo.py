@@ -10,7 +10,7 @@ for i in range(0,30,3):
     print(i)
 animals = ["猫","犬","狸",]
 for animal in animals:
-    print(animals)
+    print(animal)
 fruits = ["梨","リンゴ","バナナ"]
 print(fruits[0])
 print(fruits[1])
@@ -27,6 +27,6 @@ elif score >= 50:
     print("もう少し")
 else:
     print("不合格")
-animals.append =["熊"]
+animals.append("熊")
 print(animals)
 print(animals[3])
